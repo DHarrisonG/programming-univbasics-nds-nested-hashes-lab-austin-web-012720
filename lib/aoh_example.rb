@@ -43,8 +43,4 @@ director_3 = {
   favorite_movie: "Solaris"
 }
  
-film_fest = [
-  director_1,
-  director_2,
-  director_3,
-] # => [{:name=>"Ida Lupino", :favorite_movie=>"The Hitch-Hiker"}, {:name=>"Orson Welles", :favorite_movie=>"Citizen Kane"}, {:name=>"Andrej Tarkovsky", :favorite_movie=>"Solaris"}]
+film_fest
